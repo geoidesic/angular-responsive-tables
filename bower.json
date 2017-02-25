@@ -7,8 +7,7 @@
   ],
   "description": "Make your HTML tables look great on every device",
   "main": [
-    "release/angular-responsive-tables.js",
-    "release/angular-responsive-tables.css"
+    "release/angular-responsive-tables.js"
   ],
   "keywords": [
     "angular",
